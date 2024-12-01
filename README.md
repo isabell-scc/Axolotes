@@ -1,4 +1,4 @@
-# README Projeto Axolotls
+# README Projeto Axolotes
 
 Este projeto é um website dedicado a apresentar informações e curiosidades sobre animai fascinantes como axolotes. Esse README foi feito para especificar quando os requisitos foram cumpridos.
 
